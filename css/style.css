@@ -1,0 +1,23 @@
+header{
+	background-color: whitesmoke;
+	padding-bottom: 100px;
+}
+
+section{
+	background-color: whitesmoke;
+	padding-bottom: 100px;
+}
+
+footer{
+	color: white;
+	background-color: #333333;
+	padding-top: 20px;
+}
+
+#series{
+	padding-bottom: 100px;
+}
+
+.row{
+	padding-bottom: 10px;
+}
